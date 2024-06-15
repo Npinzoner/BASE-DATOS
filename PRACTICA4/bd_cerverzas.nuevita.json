@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "666c99bf181240c554443ebc"
+  },
+  "nombre": "nuevitaprimera",
+  "fechas": "05/02/2024",
+  "método": "third",
+  "materiaprima": "malta",
+  "precio": "10.2"
+},
+{
+  "_id": {
+    "$oid": "666c99bf181240c554443ebd"
+  },
+  "nombre": "nuevitasegunda",
+  "fechas": "14/04/2024",
+  "método": "second",
+  "materiaprima": "levadura",
+  "precio": "10.2"
+},
+{
+  "_id": {
+    "$oid": "666c99bf181240c554443ebe"
+  },
+  "nombre": "nuevitatercera",
+  "fechas": "7/03/2024",
+  "método": "third",
+  "materiaprima": "malta",
+  "precio": "10.2"
+},
+{
+  "_id": {
+    "$oid": "666c99bf181240c554443ebf"
+  },
+  "nombre": "nuevitacuarta",
+  "fechas": "12/01/2024",
+  "método": "firts",
+  "materiaprima": "lupula",
+  "precio": "10.2"
+}]

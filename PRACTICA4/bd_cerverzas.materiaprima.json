@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "666c98ca181240c554443eb0"
+  },
+  "nombre": "levadura",
+  "fechallegada": "01/12/2023",
+  "fechaven": "04/05/2025",
+  "proveedor": "ABC",
+  "cantidad": "12000"
+},
+{
+  "_id": {
+    "$oid": "666c98ca181240c554443eb1"
+  },
+  "nombre": "lúpula",
+  "fechallegada": "15/09/2023",
+  "fechaven": "28/05/2024",
+  "proveedor": "JLM",
+  "cantidad": "25000"
+},
+{
+  "_id": {
+    "$oid": "666c98ca181240c554443eb2"
+  },
+  "nombre": "malta",
+  "fechallegada": "09/11/2023",
+  "fechaven": "07/10/2025",
+  "proveedor": "XYZ",
+  "cantidad": "800"
+}]

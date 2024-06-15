@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "666c95f5181240c554443ea4"
+  },
+  "nombre": "alesprimera",
+  "fecha": "01/01/2024",
+  "método": "firts",
+  "materiaprima": "levadura",
+  "precio": "12.5"
+},
+{
+  "_id": {
+    "$oid": "666c95f5181240c554443ea5"
+  },
+  "nombre": "alessegunda",
+  "fecha": "03/01/2024",
+  "método": "firts",
+  "materiaprima": "lúpula",
+  "precio": "12.5"
+},
+{
+  "_id": {
+    "$oid": "666ce316ff97326c4ed293b4"
+  }
+},
+{
+  "_id": {
+    "$oid": "666ce53fff97326c4ed293b5"
+  },
+  "nombre": "",
+  "materiaprima": {
+    "nombre": "malta",
+    "fechav": {
+      "$date": "2024-06-15T00:50:07.958Z"
+    }
+  },
+  "fecha": {
+    "$date": "2024-06-15T00:50:07.958Z"
+  }
+}]

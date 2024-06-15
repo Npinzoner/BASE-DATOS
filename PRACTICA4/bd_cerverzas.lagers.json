@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "666c972e181240c554443eaa"
+  },
+  "nombre": "lagersprimera",
+  "fechas": "05/02/2014",
+  "método": "second",
+  "materiaprima": "levadura",
+  "precio": "13.4"
+},
+{
+  "_id": {
+    "$oid": "666c972e181240c554443eab"
+  },
+  "nombre": "lagerssegunda",
+  "fechas": "15/03/2014",
+  "método": "firts",
+  "materiaprima": "levadura",
+  "precio": "13.4"
+},
+{
+  "_id": {
+    "$oid": "666c972e181240c554443eac"
+  },
+  "nombre": "lagerstercera",
+  "fechas": "23/02/2014",
+  "método": "second",
+  "materiaprima": "lúpula",
+  "precio": "13.4"
+},
+{
+  "_id": {
+    "$oid": "666ce5dfff97326c4ed293b6"
+  },
+  "nombre": "",
+  "materiaprima": {
+    "nombre": "",
+    "fechav": {
+      "$date": "2024-06-15T00:52:47.571Z"
+    }
+  },
+  "fecha": {
+    "$date": "2024-06-15T00:52:47.571Z"
+  },
+  "metodo": "second"
+},
+{
+  "_id": {
+    "$oid": "666ce825ff97326c4ed293b7"
+  },
+  "nombre": "",
+  "materiaprima": [
+    {
+      "nombre": "malta",
+      "fechallegada": "09/11/2023",
+      "fechaven": "07/10/2025",
+      "proveedor": "XYZ",
+      "cantidad": "800"
+    },
+    {
+      "nombre": "lupula",
+      "fechaven": "15/09/2023",
+      "proveedor": "JLM",
+      "cantidad": "25000"
+    }
+  ]
+}]
